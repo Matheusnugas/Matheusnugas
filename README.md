@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Nugas</h1>
-<h3 align="center">a passionate web development student from Brazil!</h3>
+<h3 align="center">a passionate Fullstack Developer from Brazil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusnugas&label=Profile%20views&color=0e75b6&style=flat" alt="matheusnugas" /> </p>
 
