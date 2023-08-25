@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a Fullstack Developer at **Drummond Advisors.**
 
-- 🌱 I’m always studying. I focus on **Javascript, React, NodeJS and more.**
-
 - 📫 You can reach me at **https://www.linkedin.com/in/matheusluznugas/**
 
 - My professional portfolio: **https://nugas.dev**
