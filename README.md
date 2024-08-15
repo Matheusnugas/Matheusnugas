@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusnugas&label=Profile%20views&color=0e75b6&style=flat" alt="matheusnugas" /> </p>
 
-- 🔭 I’m currently working as a Fullstack Developer at **Drummond Advisors.**
+- 🔭 I’m currently working as a Fullstack Developer at **Corebiz.**
 
 - 📫 You can reach me at **https://www.linkedin.com/in/matheusluznugas/**
 
