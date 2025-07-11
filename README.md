@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusnugas&label=Profile%20views&color=0e75b6&style=flat" alt="matheusnugas" /> </p>
 
-- 🔭 I’m currently working as a Backend Developer at **Corebiz.**
-
 - 📫 You can reach me at **https://www.linkedin.com/in/matheusluznugas/**
 
 - My professional portfolio: **https://nugas.dev**
