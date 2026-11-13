@@ -83,21 +83,6 @@ const matheus = {
   </tr>
 </table>
 
-<details>
-<summary><b>More things I've built</b></summary>
-<br>
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [obrato](https://github.com/Matheusnugas/obrato) | Construction management SaaS for small builders | TypeScript |
-| [vgc-coach](https://github.com/Matheusnugas/vgc-coach) | Turn-by-turn coach for competitive Pokémon VGC replays | TypeScript |
-| [pulsar-url-shortener](https://github.com/Matheusnugas/pulsar-url-shortener) | Link shortener with infrastructure as code | Terraform (HCL) |
-| [taskmanagementapi](https://github.com/Matheusnugas/taskmanagementapi) | Task management REST API | NestJS, TypeScript |
-| [fastapi-customer-store-api](https://github.com/Matheusnugas/fastapi-customer-store-api) | Customer and store API | Python, FastAPI |
-| [geminichatbotv1](https://github.com/Matheusnugas/geminichatbotv1) | Chatbot built on Gemini | TypeScript |
-
-</details>
-
 ---
 
 ### 🧰 Tech stack
