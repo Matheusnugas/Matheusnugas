@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Matheus Nugas, Senior Fullstack Engineer">
+  <style>
+    .f { font-family: ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .in { opacity: 0; animation: up .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s } .d4 { animation-delay: .85s }
+    @keyframes up { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: none } }
+    .flow { stroke-dasharray: 6 10; animation: dash 1.6s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -32 } }
+    .pkt { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#30363d"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#0d1117"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)" opacity=".6"/>
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#g)"/>
+
+  <g class="in d1"><text x="64" y="86" class="m" font-size="16" fill="#8b949e">~/matheus-nugas <tspan fill="#58a6ff">$</tspan> whoami<tspan class="cur" fill="#58a6ff"> ▍</tspan></text></g>
+  <g class="in d2"><text x="64" y="150" class="f" font-size="56" font-weight="800" fill="#e6edf3" letter-spacing="-1.5">Matheus Nugas</text></g>
+  <g class="in d3"><text x="64" y="194" class="f" font-size="26" font-weight="600" fill="url(#g)">Senior Fullstack Engineer</text></g>
+  <g class="in d4"><text x="64" y="236" class="f" font-size="18" fill="#8b949e">React · TypeScript · NestJS · AWS serverless · Event-driven systems</text>
+  <text x="64" y="264" class="f" font-size="16" fill="#8b949e">Brazil (UTC−3) · Remote · Open to full-time, contract or B2B</text></g>
+
+  <!-- pipeline motif -->
+  <g class="in d4 m" font-size="13" text-anchor="middle">
+    <g fill="none" stroke="#58a6ff" stroke-width="2">
+      <path class="flow" d="M864 70 V112"/>
+      <path class="flow" d="M864 146 V188"/>
+      <path class="flow" d="M864 222 V250"/>
+    </g>
+    <g fill="#0d1117" stroke="#30363d" stroke-width="1.5">
+      <rect x="800" y="38" width="128" height="32" rx="8"/>
+      <rect x="800" y="112" width="128" height="34" rx="8"/>
+      <rect x="800" y="188" width="128" height="34" rx="8"/>
+      <rect x="960" y="112" width="176" height="34" rx="8"/>
+    </g>
+    <path class="flow" d="M928 129 H960" fill="none" stroke="#58a6ff" stroke-width="2"/>
+    <text x="864" y="59" fill="#e6edf3">React UI</text>
+    <text x="864" y="134" fill="#e6edf3">NestJS API</text>
+    <text x="864" y="210" fill="#e6edf3">SQS · Lambda</text>
+    <text x="1048" y="134" fill="#e6edf3">EventBridge · DB</text>
+    <text x="864" y="270" fill="#8b949e">S3 · reports · alerts</text>
+    <circle class="pkt" cx="864" cy="91" r="4" fill="#58a6ff"/>
+    <circle class="pkt" cx="864" cy="167" r="4" fill="#bc8cff" style="animation-delay:.8s"/>
+    <circle class="pkt" cx="944" cy="129" r="4" fill="#58a6ff" style="animation-delay:1.6s"/>
+  </g>
+</svg>
