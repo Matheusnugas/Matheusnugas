@@ -47,20 +47,6 @@ const matheus = {
 
 ---
 
-### 💼 Experience
-
-| When | Role | What I did |
-| :--- | :--- | :--- |
-| **Now** | **Senior Software Engineer** · Independent consultancy | Pricing services and automated spot-price ingestion for an **energy trading platform**. A **multi-tenant LLM gateway** with routing, cost tracking and billing. GitHub integrations over **Kafka** for an engineering analytics product. |
-| **2025 – 2026** | **Senior Fullstack Engineer** · Constellation Network · San Francisco | Multi-tenant **property management SaaS** on serverless AWS (React, NestJS, PostgreSQL, Terraform). Event-driven workflows on EventBridge, Lambda and SQS for data enrichment and large-scale PDF reports. |
-| **2024 – 2025** | **Senior Software Engineer** · Whirlpool Corporation · Benton Harbor | **Global e-commerce**: event-driven integrations for orders, product sync and catalog across regions and VTEX, using NestJS and AWS serverless (Lambda, SQS, EventBridge, DynamoDB). Reworked async flows to cut processing failures. |
-| **2022 – 2024** | **Fullstack Engineer** · Drummond Advisors · Boston | Client portal and a **dynamic forms platform**: NestJS APIs with clean architecture, Next.js frontends, and Zoho and Firebase integrations that replaced manual back-office work. |
-| **2020 – 2022** | **Fullstack Engineer** · Contract | End-to-end delivery for clients with Node.js, NestJS, PostgreSQL, MySQL, React and Next.js. |
-| **2015 – 2020** | **Attorney at Law** · Private practice | Real estate law. Law degree and postgraduate studies in tax law, then a career change into software through the Trybe full-stack program. |
-
-<p align="right"><a href="https://nugas.dev/about">Full background →</a></p>
-
----
 
 ### 🚀 Featured work
 
