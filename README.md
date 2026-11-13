@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%C2%B7%20US%20%C2%B7%20EU%20%C2%B7%20BR-2ea44f?style=flat-square" alt="Open to work">
-  <img src="https://img.shields.io/badge/Engagement-Full--time%20%C2%B7%20Contract%20%C2%B7%20B2B-555?style=flat-square" alt="Engagement">
+  <img src="https://img.shields.io/badge/Works%20with-Remote%20teams%20%C2%B7%20US%20%C2%B7%20EU%20%C2%B7%20BR-0969da?style=flat-square" alt="Works with remote teams in the US, EU and Brazil">
   <img src="https://img.shields.io/badge/Languages-English%20%C2%B7%20Portuguese-555?style=flat-square" alt="Languages">
   <img src="https://img.shields.io/badge/Timezone-UTC%E2%88%923-555?style=flat-square" alt="Timezone">
 </p>
@@ -127,7 +126,7 @@ const matheus = {
 ---
 
 <p align="center">
-  <b>Hiring for a fullstack or backend role?</b> I'd love to hear about it.<br>
+  <b>Building something interesting?</b> Let's talk.<br>
   <a href="mailto:matheusnugas@gmail.com">matheusnugas@gmail.com</a> · <a href="https://linkedin.com/in/matheusluznugas">LinkedIn</a> · <a href="https://nugas.dev">nugas.dev</a>
 </p>
 
